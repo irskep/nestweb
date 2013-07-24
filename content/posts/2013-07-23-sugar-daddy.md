@@ -1,6 +1,6 @@
 Title: Sugar Daddy demo
 Category: Songs
-Tags: songs, demos, recording, sugar-daddy
+Tags: song, demo, recording, sugar-daddy
 Slug: sugar-daddy-demo
 Author: Steve Johnson
 

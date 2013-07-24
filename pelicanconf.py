@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Eric, Etan, Fred, Genny, and Steve'
+AUTHOR = u'Eric, Etan, Fred, Genny, & Steve'
 SITENAME = u'The Nest'
 SITEURL = ''
 

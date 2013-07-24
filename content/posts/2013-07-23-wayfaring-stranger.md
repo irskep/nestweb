@@ -1,6 +1,6 @@
 Title: Wayfaring Stranger demo
 Category: Songs
-Tags: songs, demos, recording, wayfaring-stranger
+Tags: song, demo, recording, wayfaring-stranger
 Slug: wayfaring-stranger-demo
 Author: Steve Johnson
 

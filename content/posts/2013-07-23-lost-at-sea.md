@@ -1,6 +1,6 @@
 Title: Lost At Sea demo
 Category: Songs
-Tags: songs, demos, recording, lost-at-sea
+Tags: song, demo, recording, lost-at-sea
 Slug: lost-at-sea-demo
 Author: Steve Johnson
 
