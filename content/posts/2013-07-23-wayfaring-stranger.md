@@ -1,5 +1,4 @@
 Title: Wayfaring Stranger demo
-Date: 2013-07-23 22:00
 Category: Songs
 Tags: songs, demos, recording, wayfaring-stranger
 Slug: wayfaring-stranger-demo

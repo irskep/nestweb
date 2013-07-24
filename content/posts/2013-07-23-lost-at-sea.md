@@ -1,5 +1,4 @@
 Title: Lost At Sea demo
-Date: 2013-07-23 22:00
 Category: Songs
 Tags: songs, demos, recording, lost-at-sea
 Slug: lost-at-sea-demo
