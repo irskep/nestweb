@@ -36,3 +36,5 @@ nosetests.xml
 
 # SASS
 *.sass-cache
+*.pid
+output/
