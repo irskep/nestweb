@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Eric, Etan, Fred, Genny, & Steve'
 SITENAME = u'The Nest'
 SITEURL = ''
+STATIC_PATHS = ['images']
 
 TIMEZONE = 'US/Pacific'
 
@@ -30,3 +31,9 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# basic
+# cebong
+# chunk
+# pelican-cait
+THEME = "/Users/stephen/Development/3p/pelican-themes/chunk"
