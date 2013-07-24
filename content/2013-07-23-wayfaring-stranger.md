@@ -4,7 +4,6 @@ Category: Songs
 Tags: songs, demos, recording, wayfaring-stranger
 Slug: wayfaring-stranger-demo
 Author: Steve Johnson
-Summary: Demo of our cover of Wayfaring Stranger
 
 Blah blah copy blah blah, we are so deep.
 

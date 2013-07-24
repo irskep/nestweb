@@ -4,7 +4,6 @@ Category: Songs
 Tags: songs, demos, recording, sugar-daddy
 Slug: sugar-daddy-demo
 Author: Steve Johnson
-Summary: Hear the song that makes you think we're a reggae band
 
 This is a song about being a girl and having an old man pay for stuff for you
 probably in exchange for sex.

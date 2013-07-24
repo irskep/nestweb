@@ -4,7 +4,6 @@ Category: Songs
 Tags: songs, demos, recording, lost-at-sea
 Slug: lost-at-sea-demo
 Author: Steve Johnson
-Summary: We recorded so many demos. Three. Demos.
 
 This song is about being lost. At sea.
 
