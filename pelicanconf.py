@@ -6,7 +6,7 @@ AUTHOR = u'Eric, Etan, Fred, Genny, and Steve'
 SITENAME = u'The Nest'
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'PST'
 
 DEFAULT_LANG = u'en'
 
