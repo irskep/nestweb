@@ -19,13 +19,12 @@ TRANSLATION_FEED_ATOM = None
 TYPOGRIFY = True
 
 # Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'))
+LINKS = (('Twitter', 'http://twitter.com/thenestmusic'),
+         ('Facebook', 'https://www.facebook.com/TheNestMusic'),)
 
 # Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
+#SOCIAL = (('Twitter', 'http://twitter.com/thenestmusic'),
+#          ('Facebook', 'https://www.facebook.com/TheNestMusic'),)
 
 DEFAULT_PAGINATION = False
 
