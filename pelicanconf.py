@@ -35,4 +35,4 @@ DEFAULT_PAGINATION = False
 # cebong
 # chunk
 # pelican-cait
-THEME = "/Users/steve/dev/nestweb/theme"
+THEME = "theme"
