@@ -2,7 +2,7 @@ Title: Lost At Sea demo
 Category: Songs
 Tags: song, demo, recording, lost-at-sea
 Slug: lost-at-sea-demo
-Author: Steve Johnson
+Author: Eric Shaw
 
 This song is an epic tale of an old man forever sailing the seas waiting for the wave that will finally wash him overboard to join his wife in in the great beyond. As one of the first song that Eric ever wrote, it has evolved through many versions to become what it is today. As a group, The Nest decided to bring it a more rock feel while still maintaining its folky elements.
 
