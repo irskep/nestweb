@@ -36,3 +36,5 @@ DEFAULT_PAGINATION = False
 # chunk
 # pelican-cait
 THEME = "theme"
+
+FILES_TO_COPY = (('CNAME', 'CNAME'),)
