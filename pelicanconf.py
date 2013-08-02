@@ -20,7 +20,7 @@ TYPOGRIFY = True
 
 # Blogroll
 LINKS = (('Twitter', 'http://twitter.com/thenestmusic'),
-         ('Facebook', 'https://www.facebook.com/TheNestMusic'),)
+         ('Facebook', 'https://www.facebook.com/TheNestBand'),)
 
 # Social widget
 #SOCIAL = (('Twitter', 'http://twitter.com/thenestmusic'),
