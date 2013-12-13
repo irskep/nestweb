@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 TYPOGRIFY = True
 
 # Blogroll
-LINKS = (('Twitter', 'http://twitter.com/thenestmusic'),
+LINKS = (#('Twitter', 'http://twitter.com/thenestmusic'),
          ('Facebook', 'https://www.facebook.com/TheNestBand'),)
 
 # Social widget
