@@ -20,6 +20,7 @@ TYPOGRIFY = True
 
 # Blogroll
 LINKS = (#('Twitter', 'http://twitter.com/thenestmusic'),
+         ('Mailing list signup', 'http://eepurl.com/Bdzlf'),
          ('Facebook', 'https://www.facebook.com/TheNestBand'),)
 
 # Social widget
